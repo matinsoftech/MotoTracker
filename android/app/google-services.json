@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920033761452",
+    "project_id": "mero-gadi-277ed",
+    "storage_bucket": "mero-gadi-277ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920033761452:android:81e028f3d4b968b7412709",
+        "android_client_info": {
+          "package_name": "ms.pioneer.merogadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920033761452-7qcfkua21mgd8da0u7qvhp6ar99ms3j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZY7v5OldF2CgyY_WIoYG0h7d7MMz6iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920033761452-7qcfkua21mgd8da0u7qvhp6ar99ms3j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
